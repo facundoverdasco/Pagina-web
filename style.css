@@ -1,0 +1,63 @@
+.miembro1 {
+    width: 190px;
+   
+    margin: auto;
+    height: 150px;
+    size: 150px;
+
+}
+.logo{
+   size: 500px;
+}
+.banda{
+    display: flex;
+    flex-direction: row;
+    
+   
+    font-size: larger;
+}
+.miembro2{
+    width: 160;
+    
+    margin: auto;
+    height: 150px;
+    size: 150px;
+}
+.miembro3{
+    width: 250px;
+    margin: auto;
+    
+    height: 150px;
+    size: 150px;
+}
+.miembro4{
+    width: 150px;
+    margin: auto;
+   height: 150px; 
+    size: 150px;
+}
+p{
+    font-size: 31px;
+}
+.coleccionables{
+   margin: 400px 0px 0px 0px;
+}
+ul{
+    font-size: 31px;
+}
+
+body{
+    width: 100%;
+height: 100%;
+    background-image: url("./imagenes/fondo2.jfif");
+    
+}
+h1{
+    font-size: 100px;
+}
+img{
+    width: 300px;
+}
+h2{
+    font-size: 70px;
+}
